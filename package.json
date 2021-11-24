@@ -1,0 +1,7 @@
+{
+  "name": "web-units-conversify",
+  "version": "1.0.9",
+  "author": "joaoalbertocsjunior",
+  "email": "joaoalbertocsjunior@gmail.com",
+  "description": "Javascript library for converting pixels, viewports and REM units!"
+}
