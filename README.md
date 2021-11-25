@@ -52,13 +52,20 @@ import {
 console.log(remToPixels(10) + "px");
 console.log(pixelsToREM(1024) + "rem");
 console.log(remToVH(12) + "vh");
-console.log(vwToREM(15) + "em"); // can be EM or REM units
-//etc...
+console.log(vwToREM(15) + "em"); // can be EM or REM 
+<br/>
 </h4>
+<h3>
+//etc...
+</h3>
 </strong>
 </pre>
 </code>
 
-#ENJOY! =)
+## ENJOY! =)
 
-#https://github.com/joaocambauva/web-units-conversify
+<h3><strong>
+https://github.com/joaocambauva/web-units-conversify
+<br/>
+https://www.npmjs.com/package/web-units-conversify
+</strong></h3>
