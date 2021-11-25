@@ -29,14 +29,24 @@ var vwToREM = (vw) => {
 	return rem;
 }
 
-var pixelsToVW, vwToPixels = (units) => {
-	let result = units * (100 / window.innerWidth);
-	return result;
+var pixelsToVW = (pixels) => {
+	let vw = pixels * (100 / window.innerWidth);
+	return Math.round(vw);
 }
 
-var vhToPixels, pixelsToVH = (units) => {
-	let result = units * (100 / window.innerHeight);
-	return result;
+var vwToPixels = (vw) => {
+	let pixels = ((vw * window.innerWidth) / 100 );
+	return pixels;
+}
+
+var vhToPixels = (vh) => {
+	let pixels = ((vh * window.innerHeight) / 100 );
+	return pixels;
+}
+
+var pixelsToVH = (pixels) => {
+	let vh = pixels * (100 / window.innerHeight);
+	return Math.round(vh);
 }
 
 module.exports = {
