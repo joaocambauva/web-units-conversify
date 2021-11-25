@@ -1,21 +1,12 @@
 {
    "name":"web-units-conversify",
    "version":"1.1.5",
-   "npm-url": "https://www.npmjs.com/package/web-units-conversify",
-   "contributors": [
-		{
-			"name": "joaoalbertocambauva",
-			"email": "joaoalbertocsjunior@gmail",
-		},
-   ],
-   "author":"joaoalbertocsjunior",
-   "email":"joaoalbertocsjunior@gmail.com",
-   "description":"Javascript library for converting pixels, viewports and REM units!",
-   "repository":{
-      "type":"git",
-      "url":"https://github.com/joaocambauva/web-units-conversify"
-   },
-   "publishConfig":{
-      "registry":"https://npm.pkg.github.com/"
-   }
+   "npm-url":"https://www.npmjs.com/package/web-units-conversify",
+   "git-url":"https://github.com/joaocambauva/web-units-conversify",
+   "contributors":[
+      {
+         "name":"joaoalbertocambauva",
+         "email":"joaoalbertocsjunior@gmail"
+      }
+   ]
 }
