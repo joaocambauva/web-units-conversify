@@ -62,3 +62,5 @@ console.log(vwToREM(15) + "em"); // can be EM or REM units
 #ENJOY! =)
 
 #https://github.com/joaocambauva/web-units-conversify
+
+#https://www.npmjs.com/package/web-units-conversify

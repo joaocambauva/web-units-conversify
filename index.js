@@ -29,23 +29,13 @@ var vwToREM = (vw) => {
 	return rem;
 }
 
-var pixelsToVH = (pixels) => {
-	let result = pixels * (100 / window.innerHeight);
+var pixelsToVW, vwToPixels = (units) => {
+	let result = units * (100 / window.innerWidth);
 	return result;
 }
 
-var pixelsToVW = (pixels) => {
-	let result = pixels * (100 / window.innerWidth);
-	return result;
-}
-
-var vhToPixels = (vh) => {
-	let result = vh * (100 / window.innerHeight);
-	return result;
-}
-
-var vwToPixels = (vw) => {
-	let result = vw * (100 / window.innerWidth);
+var vhToPixels, pixelsToVH = (units) => {
+	let result = units * (100 / window.innerHeight);
 	return result;
 }
 
