@@ -8,13 +8,13 @@
   </a>
 </p>
 
-> Javascript library for converting pixels, viewports and REM units!
+> <h3 style="font-size: large">Javascript library for converting pixels, viewports and REM units!</h3>
 
 ## Goal
 
-<h1><strong>
+<h2 style="font-size: medium"><strong>
 This package is mainly made to convert CSS measurement units from HTML elements from one kind to another. 
-</h1></strong>
+</strong></h2>
 
 ## Install
 
@@ -71,7 +71,9 @@ console.log(vwToREM(15) + "em"); // can be EM or REM
 ## ENJOY! =)
 
 <h3><strong>
-https://github.com/joaocambauva/web-units-conversify <-- You Can Contribute Here If You Want To! Cheers!
+https://github.com/joaocambauva/web-units-conversify</strong></h3>
+<p>You Can Contribute Here If You Want To! Cheers!</p>
 <br/>
+<h3><strong>
 https://www.npmjs.com/package/web-units-conversify
 </strong></h3>
