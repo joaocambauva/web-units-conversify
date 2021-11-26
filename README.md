@@ -10,6 +10,12 @@
 
 > Javascript library for converting pixels, viewports and REM units!
 
+## Goal
+
+<h1><strong>
+This package is mainly made to convert CSS measurement units from HTML elements from one kind to another. 
+</h1></strong>
+
 ## Install
 
 ```sh
@@ -65,7 +71,7 @@ console.log(vwToREM(15) + "em"); // can be EM or REM
 ## ENJOY! =)
 
 <h3><strong>
-https://github.com/joaocambauva/web-units-conversify
+https://github.com/joaocambauva/web-units-conversify <-- You Can Contribute Here If You Want To! Cheers!
 <br/>
 https://www.npmjs.com/package/web-units-conversify
 </strong></h3>
